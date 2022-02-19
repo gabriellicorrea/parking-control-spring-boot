@@ -12,7 +12,7 @@
 	<artifactId>parking-control</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>parking-control</name>
-	<description>Projeto Spring Boot Atualizado</description>
+	<description>Projeto Spring Boot Atualizado 2022 --- teste</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
